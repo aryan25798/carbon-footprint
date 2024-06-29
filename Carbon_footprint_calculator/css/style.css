@@ -37,7 +37,7 @@
 }
 
 #waste-label, .fa-recycle {
-	color: #228B22;
+	color: darkgreen;
 }
 
 .progress-bar {
@@ -50,6 +50,9 @@
 }
 body {
   background-color:lightgreen;
+}
+#calculate-btn:hover {
+	background-color: red;
 }
 
 p{
